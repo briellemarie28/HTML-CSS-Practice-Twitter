@@ -1,0 +1,48 @@
+button {
+    text-decoration: none;
+    height: 35px;
+    width: 100px;
+   
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.search {
+    width: 500px;
+    margin-left: 20px;
+    height: 30px;
+}
+.login {
+    margin-left: 150px;
+    border: 2px solid #1DA1F2;
+    border-radius: 15%;
+    background-color: #fff;
+}
+.signup {
+    background-color: #1DA1F2;
+    color: #fff;
+    border: none;
+    border-radius: 15%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+i {
+    color: #1DA1F2;
+}
+.main {
+    width: 500px;
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
